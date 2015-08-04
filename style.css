@@ -799,18 +799,12 @@ div[data-dimension] {
   display: block;
   font-size: 15px;
   height: 165px;
-  line-height: 165px;
   margin: 0 auto;
   padding: 15px 0 0 18px;
   text-align: center;
   width: 75%;
-  -webkit-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
 }
-.single_tutors:hover .tutors_thumb{
-  padding: 0px;
-}
+
 .tutors_thumb > img {
   border-radius: 50%;
   height: 150px;
